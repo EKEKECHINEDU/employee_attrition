@@ -6,7 +6,7 @@
 <br>
 <br>
 <p align="center">
-  <img src="GitHubtopicpic/images/attrition-rate.jpg" 
+  <img src="https://github.com/EKEKECHINEDU/employee_attrition/blob/main/images/attrition-rate.jpg" 
        width="350">
 </p>
 <br>
@@ -102,7 +102,7 @@ plt.show()
 
 <br>
 <p align="center">
-  <img src="images/barattrition.png">
+  <img src="https://github.com/EKEKECHINEDU/employee_attrition/blob/main/images/barattrition.png">
 </p>
 <br>
 
